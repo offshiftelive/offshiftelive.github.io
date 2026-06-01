@@ -1,1 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #111827;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
 
+header {
+    text-align: center;
+    padding: 80px 20px;
+    background: #0f172a;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+    background: #1e293b;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+.card {
+    background: #1f2937;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background: #0f172a;
+}
